@@ -1,9 +1,19 @@
-# Apresentação
+## Apresentação
 
-* > Telas como ficou no desktop:
+#### Tecnologias
+
+* > NextJS
+* > TypScript
+* > DataOS | Motion
+* > ShadCN UI
+* > TailWindCSS  
+
+#### Telas
+
+* > Desktop:
 <img src="./screens/web.png"/>
 
-* > Telas como ficou no mobile:
+* > Mobile:
 <img src="./screens/Mobile.png"/>
 
 
@@ -26,13 +36,3 @@
 <br>
 
 * Instala o phosphor: `npm install @phosphor-icons/react`
-
-### Ref.
-
-* Links:
-  
-[Link do vídeo](https://www.youtube.com/watch?v=5tpX4iTdg5A)
-
-[Link da documentação do Shadcn/Ui](https://ui.shadcn.com/docs)
-
-[Link da documentação do Phosphor](https://phosphoricons.com/)
