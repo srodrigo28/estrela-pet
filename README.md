@@ -1,9 +1,9 @@
 # Apresentação
 
-# telas Como ficou no Desktop:
-<img src="./screens/Desktop.png"/>
+* > Telas como ficou no desktop:
+<img src="./screens/web.png"/>
 
-# telas Como ficou no Mobile:
+* > Telas como ficou no mobile:
 <img src="./screens/Mobile.png"/>
 
 
