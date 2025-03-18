@@ -1,7 +1,10 @@
 # Apresentação
 
-* Como ficou no Desktop:
+# telas Como ficou no Desktop:
 <img src="./screens/Desktop.png"/>
+
+# telas Como ficou no Mobile:
+<img src="./screens/Mobile.png"/>
 
 
 ## Bibliotecas utilizadas:
