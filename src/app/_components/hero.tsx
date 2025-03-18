@@ -37,7 +37,7 @@ export default function Hero() {
                                     data-aos="fade-up"
                                     data-aos-delay="500"
                                     target="_blank"
-                                    href={`https://wa.me/556799998800?text=Olá vim me pelo site do Pet-Dev e gostaria de mais informações.`}
+                                    href={`https://wa.me/5562998579084?text=Olá vim me pelo site do Pet-Dev e gostaria de mais informações.`}
                                     className="w-fit bg-green-500 px-5 py-2 rounded-md font-medium gap-2 flex items-center justify-center"
                               >    
                                     <WhatsappLogo className="w-5 h-5" />

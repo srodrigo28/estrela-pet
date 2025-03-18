@@ -63,7 +63,7 @@ export default function Footer() {
                         <h3 className="text-2xl font-semibold mb-2">Contatos</h3>
                         <p>Email: contato-estrela-pet@gmail.com</p>
                         <p>Cidade: Aparecida de Goiânia, Estado: Goiás - CEP: 74961-070</p>
-                        <p>Telefone: (XX) 1231831238</p>
+                        <p>Telefone: (62) 98579084</p>
                   </div>
 
 

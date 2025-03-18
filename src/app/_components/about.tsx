@@ -38,10 +38,8 @@ export default function About() {
                               <h2 className="text-4xl font-bold">SOBRE</h2>
 
                               <p>
-                                    Until one has loved an animal, a part of one's soul remains
-                                    unawakened. We believe in it and we believe in easy access to
-                                    things that are good for our mind, body and spirit. With a clever
-                                    offering, superb support and a secure checkout you're in good hands.
+                                    Bem-vindo à <span className='font-semibold text-yellow-400'>Estrela Pet</span>, a sua melhor opção para cuidar do bem-estar e felicidade do seu pet em Aparecida de Goiânia, Goiás! 
+                                    Somos apaixonados por animais e dedicados a oferecer os melhores produtos e serviços para cuidar daqueles que fazem parte da sua família.
                               </p>
 
                               <ul className="space-y-4">
