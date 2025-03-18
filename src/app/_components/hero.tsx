@@ -5,7 +5,7 @@ import { WhatsappLogo } from "@phosphor-icons/react/dist/ssr";
 
 export default function Hero() {
   return (
-    <section className="bg-[#E84C3D] text-white relative overflow-hidden">
+    <section className="bg-slate-300 text-white relative overflow-hidden">
 
       <div>
             <Image
@@ -23,10 +23,8 @@ export default function Hero() {
       <div className="container mx-auto pt-16 md:pb-0 px-4 relative">
             <article className="grid grid-cols-1 lg:grid-cols-2 gap-8">
                   <div className="space-y-6">
-                        <h1
-                              className="text-3xl md:text-4xl lg:text-5xl font-bold leading-10"
-                              data-aos="fade-down"
-                        >
+                        <h1 className="text-3xl md:text-4xl lg:text-5xl font-bold leading-10"
+                              data-aos="fade-down" >
                               Seu pet merece cuidado, carinho e atenção especial.
                         </h1>
                         <p className="text-base lg:text-lg" data-aos="fade-right">
@@ -52,7 +50,7 @@ export default function Hero() {
                                     <b className="bg-black text-white px-2 py-1 rounded-md">5%</b> de desconto na primeira conta.
                               </p>
 
-                              <div className="flex mt-4">
+                              <div className="flex mt-10 ">
                                     <div className="w-32 hidden lg:block">
                                           <Image
                                                 src={catImg}

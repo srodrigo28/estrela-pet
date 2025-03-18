@@ -52,7 +52,7 @@ export default function About() {
 
                                     <li className='flex items-center gap-2'>
                                           <Check className="text-red-500" />
-                                          Nossa Equipe possui mais de 10 veterinários.
+                                          Nossa Equipe possui mais de 02 veterinários.
                                     </li>
 
                                     <li className='flex items-center gap-2'>

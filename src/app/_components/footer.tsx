@@ -18,7 +18,7 @@ const brands = [
 
 export default function Footer() {
   return (
-    <section className="bg-[#E84C3D] py-16 text-white">
+    <section className="bg-slate-900 py-16 text-white">
       <div className="container mx-auto px-4">
             
             <div className="border-b border-white/20 pb-8">
@@ -61,10 +61,9 @@ export default function Footer() {
 
                   <div>
                         <h3 className="text-2xl font-semibold mb-2">Contatos</h3>
-                        <p>Email: contato@gmail.com</p>
-                        <p>Cidade, Estado - CEP: 12318-312</p>
+                        <p>Email: contato-estrela-pet@gmail.com</p>
+                        <p>Cidade: Aparecida de Goiânia, Estado: Goiás - CEP: 74961-070</p>
                         <p>Telefone: (XX) 1231831238</p>
-                        <p>Rua X, centro, Campo Grande | MS</p>
                   </div>
 
 
